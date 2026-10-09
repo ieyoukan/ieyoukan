@@ -1,5 +1,6 @@
 ## Hi there 👋
 何か作るの好き。ようかんって呼んでね!
+創れるのを作るの好き
 
 ## Skills
 ![skillicons](https://skillicons.dev/icons?i=html,css,js,typescript,react,golang,cs)
