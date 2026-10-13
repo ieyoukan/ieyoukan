@@ -18,3 +18,14 @@
 
 ### メタバース
 ![vrchat](https://images.squarespace-cdn.com/content/v1/5f0770791aaf57311515b23d/64ea7bc8-02c5-4c1e-97cf-5c3aa79300f6/VRC_Logo.png?format=50w)
+
+
+## 実務経験
+### インターン
+- ピクシブ株式会社
+  - PIXIV SUMMER BOOT CAMP 2026
+  - コース:pixivcoban
+  - まとめたブログ: https://zenn.dev/yokan/articles/pixiv-summer-intern-2026
+
+### アルバイト
+- 株式会社Hugkun
