@@ -13,6 +13,8 @@
 ## Favourites
 ![ArgoCD](https://avatars.githubusercontent.com/u/30269780?s=60&v=4) <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-light.svg" width="50">
 
+ArgoCD大好き！！
+
 ### 分散型SNS
 [![misskey](https://skillicons.dev/icons?i=misskey)](https://mi.youkan.uk/@youkan)
 
