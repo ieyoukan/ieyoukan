@@ -3,7 +3,7 @@
 
 
 ## Skills
-- (フロントエンドは半分趣味、ユーザーの価値とかUIUX考えるの好き）
+- (フロントエンドは半分趣味、ユーザーの価値とかUIUX考えるの好き。静的型付け最高）
 ![skillicons](https://skillicons.dev/icons?i=html,css,js,typescript,react,golang,cs,dart,kotlin)
 
 - 必要だし色々使ってるk8sは属人化防げると思うし開発速度も上がるし相乗りできるし最高だと思ってる
